@@ -3,7 +3,7 @@
 # Dhruv Kumar Sahu
 ### M.Tech | IIT Kanpur · Management Sciences (Industrial & Management Engineering)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruv--kumar--sahu-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dhruv-kumar-sahu)
+[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/dhruv-kumar-sahu-157ab9193/)](https://linkedin.com/in/dhruv-kumar-sahu)
 [![Gmail](https://img.shields.io/badge/Gmail-dhruvkumarsahu5415@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:dhruvkumarsahu5415@gmail.com)
 
 </div>
